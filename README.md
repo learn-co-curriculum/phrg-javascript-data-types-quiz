@@ -3,62 +3,50 @@ JavaScript Data Types Quiz
 
 ???
 
-?: Which of the following is a `string`?
+?: Which of the following is/are strings?
 
 ( ) `4`
 ( ) `4.0`
 (x) `'4'`
 
-?: Which of the following is/are of type `number`?
+?: Which of the following is/are numbers?
 
 (x) `4`
 (x) `4.0`
 ( ) `'4'`
 (x) `-'4'`
 
-?: Which of the following is/are of type `boolean`?
+?: Which of the following is/are booleans?
 
 (x) `true`
 (x) `false`
 
-?: What is the type of `hello` in the following snippet?
+?: What is the result of `80 + 71.2`?
 
-``` javascript
-var hello
-```
+(x) `151.2`
+( ) `151`
+( ) `8071.2`
 
-( ) `None`
-( ) `null`
-(x) `undefined`
-( ) `number`
+?: What is the result of `"80" + 71.2`?
 
-?: What is the value of the following snippet?
+( ) `151.2`
+( ) `151`
+(x) `"8071.2"`
 
-``` javascript
-typeof null
-```
+?: What is the result of `2 + "2"`?
 
-( ) `'null'`
-( ) `'undefined'`
-(x) `'object'`
-( ) `'number'`
+( ) `4`
+( ) `"4"`
+(x) `"22"`
 
-?: Assuming that the following snippet runs in an ES6 environment, what is its value?
+?: Does `100 + 30` produce a number or a string?
 
-``` javascript
-typeof Symbol('hi!')
-```
+(x) number
+( ) string
 
-(x) `'symbol'`
-( ) `'number'`
-( ) `'string'`
-( ) `'object'`
+?: Does `"100" + 30` produce a number or a string?
 
-?: What is the value of `typeof NaN`?
-
-( ) `'object'`
-(x) `'number'`
-( ) `'string'`
-( ) Nothing, it throws an error
+( ) number
+(x) string
 
 ???
