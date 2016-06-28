@@ -3,6 +3,8 @@ JavaScript Data Types Quiz
 
 ???
 
+# JavaScript Data Types Quiz
+
 ?: Which of the following is/are strings?
 
 ( ) `4`
