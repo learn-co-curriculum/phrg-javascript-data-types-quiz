@@ -7,9 +7,9 @@ JavaScript Data Types Quiz
 
 ?: Which of the following is/are strings?
 
-( ) `4`
-( ) `4.0`
-(X) `'4'`
+[ ] `4`
+[ ] `4.0`
+[X] `'4'`
 
 ?: Which of the following is/are numbers?
 
