@@ -1,5 +1,4 @@
-JavaScript Data Types Quiz
----
+# JavaScript Data Types
 
 ???
 
@@ -22,6 +21,7 @@ JavaScript Data Types Quiz
 
 [X] `true`
 [X] `false`
+[ ] `"true"`
 
 ?: What is the result of `80 + 71.2`?
 
