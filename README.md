@@ -11,15 +11,15 @@ JavaScript Data Types Quiz
 
 ?: Which of the following is/are numbers?
 
-(x) `4`
-(x) `4.0`
-( ) `'4'`
-(x) `-'4'`
+[x] `4`
+[x] `4.0`
+[ ] `'4'`
+[x] `-'4'`
 
 ?: Which of the following is/are booleans?
 
-(x) `true`
-(x) `false`
+[x] `true`
+[x] `false`
 
 ?: What is the result of `80 + 71.2`?
 
