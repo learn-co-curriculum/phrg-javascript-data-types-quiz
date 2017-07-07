@@ -15,7 +15,7 @@
 [X] `4`
 [X] `4.0`
 [ ] `'4'`
-[X] `-'4'`
+[X] `-4`
 
 ?: Which of the following is/are booleans?
 
