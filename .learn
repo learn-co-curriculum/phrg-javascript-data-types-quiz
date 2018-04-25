@@ -6,3 +6,5 @@ resources:
   - 0
 feature_tours:
   ask_a_question: true
+
+parent_template: git@github.com:learn-co-curriculum/javascript-data-types-quiz.git

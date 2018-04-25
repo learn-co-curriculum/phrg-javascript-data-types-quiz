@@ -52,3 +52,4 @@
 (X) string
 
 ???
+<p data-visibility='hidden'>PHRG JavaScript Data Types</p>
